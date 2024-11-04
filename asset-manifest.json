@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-johnny-rocketfingers/static/css/main.799e85e5.css",
+    "main.js": "/react-johnny-rocketfingers/static/js/main.2ea65183.js",
+    "static/js/453.c3730a14.chunk.js": "/react-johnny-rocketfingers/static/js/453.c3730a14.chunk.js",
+    "index.html": "/react-johnny-rocketfingers/index.html",
+    "main.799e85e5.css.map": "/react-johnny-rocketfingers/static/css/main.799e85e5.css.map",
+    "main.2ea65183.js.map": "/react-johnny-rocketfingers/static/js/main.2ea65183.js.map",
+    "453.c3730a14.chunk.js.map": "/react-johnny-rocketfingers/static/js/453.c3730a14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.799e85e5.css",
+    "static/js/main.2ea65183.js"
+  ]
+}
